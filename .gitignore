@@ -1,3 +1,7 @@
 api_keys.py
 API_practice.ipynb
 random_numbers.ipynb
+VacationPy/.ipynb*
+WeatherPy/.ipynb*
+__pycache__
+WeatherPy/city_weather.csv
